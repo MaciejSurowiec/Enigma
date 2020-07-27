@@ -1,0 +1,5 @@
+﻿  EnigmaMachine.cpp
+C:\Users\suruw\source\repos\EnigmaMachine\EnigmaMachine\EnigmaMachine.cpp(126): warning C4101: 'temp': unreferenced local variable
+C:\Users\suruw\source\repos\EnigmaMachine\EnigmaMachine\EnigmaMachine.cpp(153): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int **'
+C:\Users\suruw\source\repos\EnigmaMachine\EnigmaMachine\EnigmaMachine.cpp(200): warning C4101: 'reflectors': unreferenced local variable
+  EnigmaMachine.vcxproj -> C:\Users\suruw\source\repos\EnigmaMachine\Debug\EnigmaMachine.exe
